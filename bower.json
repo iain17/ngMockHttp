@@ -1,12 +1,7 @@
 {
   "name": "ngMockHttp",
-  "main": "./dist/index.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/bbraithwaite/ngMockHttp",
-  "authors": [
-    "bbraithwaite <https://github.com/bbraithwaite>"
-  ],
-  "license": "MIT",
+  "main": "dist/ngMockHttp.js",
   "ignore": [
     "node_modules",
     "bower_components",
